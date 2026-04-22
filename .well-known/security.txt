@@ -1,0 +1,6 @@
+Contact: mailto:info@ameer-sief.com
+Contact: https://www.ameer-sief.com/#contact
+Canonical: https://www.ameer-sief.com/.well-known/security.txt
+Expires: 2026-12-31T23:59:59.000Z
+Preferred-Languages: en, ar
+Policy: https://www.ameer-sief.com/
