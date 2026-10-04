@@ -1,0 +1,31 @@
+{
+  "name": "Ameer Sief Studio — Visual Production Dubai",
+  "short_name": "Ameer Sief",
+  "description": "Dubai-based videographer, video editor, photographer & AI visual storyteller serving clients across the UAE and globally.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-live.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/portfolio/hero-bg.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ],
+  "categories": ["business", "photography", "entertainment", "productivity"],
+  "lang": "en"
+}
