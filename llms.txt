@@ -27,3 +27,9 @@ Ameer Sief Studio combines cinematic visual craft with advanced AI workflows. De
 - Instagram: https://instagram.com/ameer_sief_
 - LinkedIn: https://www.linkedin.com/in/ameersief/
 - Facebook: https://facebook.com/ameersiefphotography
+
+## Optional
+
+- [Raw AI Summary](https://www.ameer-sief.com/ai/summary.json): Machine-readable JSON summary for AI agents.
+- [AI FAQ Knowledge Base](https://www.ameer-sief.com/ai/faq.json): Structured questions and answers for answer engines.
+- [AI Service Schema](https://www.ameer-sief.com/ai/service.json): Service capability specifications.
