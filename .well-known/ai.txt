@@ -1,0 +1,21 @@
+# AI Crawler Permissions for ameer-sief.com
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Discovery Endpoints
+llms: https://www.ameer-sief.com/llms.txt
+ai-summary: https://www.ameer-sief.com/ai/summary.json
+ai-faq: https://www.ameer-sief.com/ai/faq.json
+ai-service: https://www.ameer-sief.com/ai/service.json

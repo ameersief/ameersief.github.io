@@ -1,0 +1,31 @@
+{
+  "provider": "Ameer Sief Studio",
+  "location": "Dubai, UAE",
+  "currency": "AED / USD",
+  "services": [
+    {
+      "id": "event-videography",
+      "name": "Event Videography & Post-Production Editing",
+      "description": "Cinematic 4K/6K multi-angle videography, rapid recap video editing, color grading, and social reel production for corporate conferences, summits, and major events in Dubai and Abu Dhabi.",
+      "url": "https://www.ameer-sief.com/government-event-coverage-dubai.html"
+    },
+    {
+      "id": "portrait-photography",
+      "name": "Executive & Personal Portrait Photography",
+      "description": "High-end studio and on-location portraits for executives, thought leaders, and private graduation sessions with magazine-grade visual polish.",
+      "url": "https://www.ameer-sief.com/portrait-photography-dubai.html"
+    },
+    {
+      "id": "ai-video-workflows",
+      "name": "Commercial AI Video & Visual Workflows",
+      "description": "Hyper-realistic generative AI visuals, video generation, and customized social media content engines.",
+      "url": "https://www.ameer-sief.com/ai-video-workflows-dubai.html"
+    },
+    {
+      "id": "nfc-smart-cards",
+      "name": "Smart NFC Business Cards & Micro-Websites",
+      "description": "Physical laser-engraved or custom-printed NFC cards paired with dynamic, lightning-fast digital contact web pages.",
+      "url": "https://www.ameer-sief.com/nfc-smart-contact-pages-dubai.html"
+    }
+  ]
+}

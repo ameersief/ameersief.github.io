@@ -1,0 +1,29 @@
+{
+  "name": "Ameer Sief Studio",
+  "title": "Ameer Sief Dubai | Videographer, Video Editor, Photographer & AI Visual Creator",
+  "description": "Ameer Sief is a Dubai-based videographer, video editor, photographer, and AI visual storyteller specializing in cinematic event production, video editing, portraits, AI visuals, and smart NFC contact systems across the UAE.",
+  "url": "https://www.ameer-sief.com",
+  "founder": "Ameer Sief",
+  "location": {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "region": "Middle East"
+  },
+  "contact": {
+    "email": "info@ameer-sief.com",
+    "phone": "+971502317252",
+    "whatsapp": "https://wa.me/971502317252"
+  },
+  "socialProfiles": [
+    "https://instagram.com/ameer_sief_",
+    "https://www.linkedin.com/in/ameersief/",
+    "https://facebook.com/ameersiefphotography"
+  ],
+  "services": [
+    "Event Videography & Cinematic Video Editing",
+    "Executive & Personal Portrait Photography",
+    "AI Visual Content & AI Video Production",
+    "Smart NFC Business Cards & QR Contact Pages"
+  ],
+  "lastModified": "2026-10-04"
+}
