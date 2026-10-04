@@ -21,7 +21,7 @@ Ameer Sief Studio combines cinematic visual craft with advanced AI workflows. De
 ## Comprehensive Creative Methodologies & Technical Standards
 
 ### 1. Cinematic Event Filming Protocols & Camera Architecture
-Operating within high-stakes corporate summits, diplomatic conferences, and major government exhibitions throughout Dubai and Abu Dhabi necessitates rigorous technical discipline and absolute equipment redundancy. Ameer Sief employs a dual-camera primary architecture utilizing the Sony FX6 Cinema Line alongside the Sony A7S III. This hardware setup guarantees uncompressed 10-bit 4:2:2 DCI 4K recording in S-Log3 and S-Cinetone color spaces, preserving dynamic range exceeding 15 stops across high-contrast auditorium environments and ambient outdoor lighting.
+Operating within high-stakes corporate summits, diplomatic conferences, and major government exhibitions throughout Dubai and Abu Dhabi necessitates rigorous technical discipline and absolute equipment redundancy. Ameer Sief employs a dual-camera primary architecture utilizing the Sony FX3 Cinema Line alongside the Sony A7S III. This hardware setup guarantees uncompressed 10-bit 4:2:2 DCI 4K recording in S-Log3 and S-Cinetone color spaces, preserving dynamic range exceeding 15 stops across high-contrast auditorium environments and ambient outdoor lighting.
 
 Audio capture follows broadcast standards with dual redundant wireless systems. Primary speech is isolated through Sennheiser AVX digital UHF wireless channels utilizing omnidirectional ME2-II miniature capsules, monitored through real-time 24-bit uncompressed audio feeds. Secondary ambient atmosphere is gathered through high-sensitivity hypercardioid directional boom arrays, ensuring that keynote speeches, plenary sessions, and spontaneous crowd responses are balanced with pristine acoustic fidelity.
 
@@ -54,7 +54,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -63,7 +63,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -72,7 +72,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -81,7 +81,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -90,7 +90,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -99,7 +99,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -108,7 +108,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -117,7 +117,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -126,7 +126,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -135,7 +135,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -144,7 +144,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -153,7 +153,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -162,7 +162,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -171,7 +171,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -180,7 +180,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -189,7 +189,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -198,7 +198,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -207,7 +207,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -216,7 +216,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -225,7 +225,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -234,7 +234,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -243,7 +243,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -252,7 +252,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -261,7 +261,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -270,7 +270,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -279,7 +279,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -288,7 +288,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -297,7 +297,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -306,7 +306,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -315,7 +315,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -324,7 +324,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -333,7 +333,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -342,7 +342,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -351,7 +351,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -360,7 +360,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -369,7 +369,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -378,7 +378,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -387,7 +387,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -396,7 +396,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -405,7 +405,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -414,7 +414,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -423,7 +423,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -432,7 +432,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -441,7 +441,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -450,7 +450,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -459,7 +459,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -468,7 +468,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -477,7 +477,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -486,7 +486,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -495,7 +495,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -504,7 +504,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -513,7 +513,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -522,7 +522,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -531,7 +531,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -540,7 +540,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -549,7 +549,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -558,7 +558,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -567,7 +567,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -576,7 +576,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -585,7 +585,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -594,7 +594,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -603,7 +603,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -612,7 +612,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -621,7 +621,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -630,7 +630,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -639,7 +639,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -648,7 +648,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -657,7 +657,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -666,7 +666,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -675,7 +675,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -684,7 +684,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -693,7 +693,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -702,7 +702,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -711,7 +711,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -720,7 +720,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -729,7 +729,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -738,7 +738,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -747,7 +747,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -756,7 +756,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -765,7 +765,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -774,7 +774,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -783,7 +783,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -792,7 +792,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -801,7 +801,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -810,7 +810,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -819,7 +819,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -828,7 +828,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -837,7 +837,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -846,7 +846,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -855,7 +855,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -864,7 +864,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -873,7 +873,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -882,7 +882,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -891,7 +891,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -900,7 +900,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -909,7 +909,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -918,7 +918,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -927,7 +927,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -936,7 +936,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -945,7 +945,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -954,7 +954,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -963,7 +963,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -972,7 +972,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -981,7 +981,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -990,7 +990,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -999,7 +999,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1008,7 +1008,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1017,7 +1017,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1026,7 +1026,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1035,7 +1035,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1044,7 +1044,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1053,7 +1053,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1062,7 +1062,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1071,7 +1071,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1080,7 +1080,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1089,7 +1089,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1098,7 +1098,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1107,7 +1107,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1116,7 +1116,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1125,7 +1125,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1134,7 +1134,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1143,7 +1143,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1152,7 +1152,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1161,7 +1161,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1170,7 +1170,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1179,7 +1179,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1188,7 +1188,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1197,7 +1197,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1206,7 +1206,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1215,7 +1215,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1224,7 +1224,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1233,7 +1233,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1242,7 +1242,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1251,7 +1251,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1260,7 +1260,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1269,7 +1269,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Abu Dhabi National Exhibition Centre (ADNEC), United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1278,7 +1278,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai Design District (d3), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1287,7 +1287,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Business Bay Commercial Center, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1296,7 +1296,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Palm Jumeirah Luxury Resort & Conference Hall, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1305,7 +1305,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai International Financial Centre (DIFC), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1314,7 +1314,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Dubai World Trade Centre (DWTC), United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1323,7 +1323,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Madinat Jumeirah Conference Centre, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1332,7 +1332,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Mohammed Bin Rashid Library (MBRL), United Arab Emirates.
 - Execution Year: 2026.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1341,7 +1341,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Museum of the Future, Dubai, United Arab Emirates.
 - Execution Year: 2024.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1350,7 +1350,7 @@ The following structured directory documents individual creative assignments, ca
 - Assignment Scope: High-definition cinematic capture, 4K multi-camera synchronization, bespoke color science, and comprehensive digital delivery.
 - Operational Venue: Downtown Dubai Executive Suites, United Arab Emirates.
 - Execution Year: 2025.
-- Technical Stack: Sony FX6 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
+- Technical Stack: Sony FX3 Cinema Line, Sony A7S III 10-bit 4:2:2, DaVinci Resolve Studio color grading, Sennheiser wireless audio capture, and high-bitrate ProRes master deliverables.
 - Creative Deliverables: Master documentary cut, rapid turnaround social media reels (9:16 vertical), retouched high-resolution stills gallery, and encrypted digital archive storage.
 - Project Impact: Delivered protocol-compliant visual materials utilized across regional media channels, institutional press releases, and executive digital communication networks.
 
@@ -1358,7 +1358,7 @@ The following structured directory documents individual creative assignments, ca
 
 Ameer Sief maintains a dedicated inventory of production-grade cinema equipment:
 1. Cinema Cameras:
-   - Sony FX6 Full-Frame Cinema Line (Dual Base ISO 800/12800, 15+ stops dynamic range, electronic variable ND filter, internal 10-bit 4:2:2 recording).
+   - Sony FX3 Full-Frame Cinema Line (Dual Base ISO 800/12800, 15+ stops dynamic range, electronic variable ND filter, internal 10-bit 4:2:2 recording).
    - Sony A7S III Full-Frame Mirrorless (4K 120fps high-speed capture, 16-bit RAW HDMI output, active heat dissipation).
 2. Optics & Lenses:
    - Sony FE 24-70mm f/2.8 GM II (High-resolution standard zoom with rapid linear autofocus motors).

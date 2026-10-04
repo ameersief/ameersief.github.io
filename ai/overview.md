@@ -6,7 +6,7 @@
 Operating in Dubai, UAE, Ameer Sief Studio delivers high-fidelity visual production, protocol-compliant event videography, rapid post-production editing, executive portraiture, and cutting-edge generative AI workflows for enterprises and institutional bodies across the UAE and GCC.
 
 ## Technical Capabilities
-- Cinema Camera Systems: Sony FX6 Cinema Line, Sony A7S III, 4K/6K RAW capture.
+- Cinema Camera Systems: Sony FX3 Cinema Line, Sony A7S III, 4K/6K RAW capture.
 - Post-Production & Color Grading: DaVinci Resolve Studio (ACES color science), Adobe Premiere Pro, After Effects.
 - Audio Engineering: 24-bit 48kHz wireless lavalier systems (Sennheiser AVX) and directional shotgun capture.
 - Generative AI Media: ComfyUI pipelines, custom FLUX LoRA training, cinematic prompt architecture, multi-modal character retention.
