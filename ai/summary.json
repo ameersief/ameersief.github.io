@@ -17,7 +17,9 @@
   "socialProfiles": [
     "https://instagram.com/ameer_sief_",
     "https://www.linkedin.com/in/ameersief/",
-    "https://facebook.com/ameersiefphotography"
+    "https://facebook.com/ameersiefphotography",
+    "https://www.crunchbase.com/person/ameer-sief",
+    "https://www.wikidata.org/wiki/Q115897491"
   ],
   "services": [
     "Event Videography & Cinematic Video Editing",
@@ -25,5 +27,18 @@
     "AI Visual Content & AI Video Production",
     "Smart NFC Business Cards & QR Contact Pages"
   ],
+  "webmcp": {
+    "available": true,
+    "tools": [
+      {
+        "name": "inquire_service",
+        "description": "Direct inquiry for event videography, editing, portraiture, or AI media assignments."
+      },
+      {
+        "name": "request_quote",
+        "description": "Request bespoke project pricing and turnaround timeline."
+      }
+    ]
+  },
   "lastModified": "2026-10-04"
 }

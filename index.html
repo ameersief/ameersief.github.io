@@ -65,7 +65,12 @@
             "description": "Ameer Sief is a Dubai-based videographer, video editor, photographer, and AI visual storyteller specializing in cinematic event production, video editing, portraits, AI visuals, and smart NFC contact systems across the UAE.",
             "publisher": { "@id": "https://www.ameer-sief.com/#person" },
             "inLanguage": ["en", "ar"],
-            "dateModified": "2026-10-04"
+            "dateModified": "2026-10-04",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.ameer-sief.com/?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
           },
           {
             "@type": "Person",
@@ -204,6 +209,12 @@
 
         <h2>Verified Institutional Experience &amp; Inquiries</h2>
         <p>The studio has contributed creative post-production, camera operation, and digital storytelling to key UAE institutions including the Knowledge Foundation, Ministry of Sports, Library Foundation, and Aviation Projects. Direct reservations, commercial commissions, and consultation inquiries can be arranged via WhatsApp at <a href="https://wa.me/971502317252">+971 50 231 7252</a> or official email at <a href="mailto:info@ameer-sief.com">info@ameer-sief.com</a>.</p>
+
+        <form action="https://wa.me/971502317252" method="GET" style="margin-top: 1.5rem;">
+          <label for="project-inquiry" style="display: block; font-weight: bold; margin-bottom: 0.5rem;">Direct Creative Inquiry</label>
+          <input id="project-inquiry" name="text" type="text" placeholder="Inquire about event videography, editing, portraiture, or AI media in Dubai" aria-label="Inquire about event videography, editing, portraiture, or AI media in Dubai" style="width: 100%; max-width: 500px; padding: 0.75rem; border: 1px solid #d4af37; border-radius: 4px;" />
+          <button type="submit" style="padding: 0.75rem 1.5rem; background: #d4af37; color: #000; border: none; font-weight: bold; border-radius: 4px; margin-top: 0.5rem; cursor: pointer;">Send Inquiry</button>
+        </form>
       </main>
     </div>
   </body>
