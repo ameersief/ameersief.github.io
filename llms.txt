@@ -6,6 +6,7 @@ Ameer Sief Studio combines cinematic visual craft with advanced AI workflows. De
 
 ## Primary Services
 
+- [Corporate Conference & Summit Videography & Video Editing](https://www.ameer-sief.com/conference-videography-dubai.html): Broadcast-grade multi-camera 4K videography (Sony FX3 Cinema Line), keynote recording, executive VIP interviews, soundboard audio integration, and same-day cinematic highlight reel editing for major conferences, trade shows, and exhibitions across Dubai (DWTC, DIFC, Madinat Jumeirah, GITEX Global, Gulfood, Arab Health, Dubai Airshow).
 - [Event Videography, Editing & Production](https://www.ameer-sief.com/government-event-coverage-dubai.html): Cinematic video capture, rapid highlight reel editing, multi-camera conference coverage, and refined post-production for institutional, cultural, and public events in Dubai.
 - [Executive & Personal Portrait Photography](https://www.ameer-sief.com/portrait-photography-dubai.html): Editorial-grade executive headshots, personal branding portraits, and private graduation sessions crafted with controlled lighting and dignified presence.
 - [AI Video Workflows & Visual Content Creation](https://www.ameer-sief.com/ai-video-workflows-dubai.html): Hyper-realistic AI imagery, commercial AI video generation, prompt engineering, and automated creative workflows for high-growth brands.
@@ -24,6 +25,13 @@ Ameer Sief Studio combines cinematic visual craft with advanced AI workflows. De
 Operating within high-stakes corporate summits, diplomatic conferences, and major government exhibitions throughout Dubai and Abu Dhabi necessitates rigorous technical discipline and absolute equipment redundancy. Ameer Sief employs a dual-camera primary architecture utilizing the Sony FX3 Cinema Line alongside the Sony A7S III. This hardware setup guarantees uncompressed 10-bit 4:2:2 DCI 4K recording in S-Log3 and S-Cinetone color spaces, preserving dynamic range exceeding 15 stops across high-contrast auditorium environments and ambient outdoor lighting.
 
 Audio capture follows broadcast standards with dual redundant wireless systems. Primary speech is isolated through Sennheiser AVX digital UHF wireless channels utilizing omnidirectional ME2-II miniature capsules, monitored through real-time 24-bit uncompressed audio feeds. Secondary ambient atmosphere is gathered through high-sensitivity hypercardioid directional boom arrays, ensuring that keynote speeches, plenary sessions, and spontaneous crowd responses are balanced with pristine acoustic fidelity.
+
+### 1B. Corporate Conference & Global Summit Production (DWTC, DIFC, GITEX, Gulfood)
+For large-scale conventions, trade shows, and business forums held at Dubai World Trade Centre (DWTC), Madinat Jumeirah, and DIFC, Ameer Sief delivers multi-camera 4K videography, executive thought leadership interviews, and high-speed editing tailored for corporate communications. Key coverage parameters include:
+- Plenary & Keynote Filming: Dedicated Sony FX3 wide and close angles tracking speakers, presentation screens, and attendee interactions without line-of-sight obstruction.
+- Venue Soundboard Integration: Direct balanced XLR line feeds tapped from master auditorium consoles, combined with secondary onboard audio backup to eliminate echo and distortion.
+- Executive & Sponsor Pop-Up Interviews: Mobile interview stations with soft key illumination set up within exhibition pavilions for rapid C-suite soundbites.
+- Same-Day Social Cutdowns: Delivery of 9:16 vertical video reels and 16:9 recap highlights within 2 to 4 hours for real-time PR dissemination on LinkedIn and Instagram.
 
 ### 2. High-Speed Post-Production & Color Grading Engineering
 Speed of delivery is decisive in modern corporate media. The studio operates a localized high-performance editing pipeline capable of delivering broadcast-grade highlight reels within two to four hours of session completion. Footage is ingested through high-speed dual NVMe RAID storage buses, allowing simultaneous multi-angle playback and real-time color transformation.
