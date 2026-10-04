@@ -1,0 +1,21 @@
+# Ameer Sief Studio — AI Discovery Overview & Technical Documentation
+
+> Ameer Sief is an acclaimed Dubai-based videographer, video editor, photographer, and generative AI media creator.
+
+## Studio Profile & Core Mission
+Operating in Dubai, UAE, Ameer Sief Studio delivers high-fidelity visual production, protocol-compliant event videography, rapid post-production editing, executive portraiture, and cutting-edge generative AI workflows for enterprises and institutional bodies across the UAE and GCC.
+
+## Technical Capabilities
+- Cinema Camera Systems: Sony FX6 Cinema Line, Sony A7S III, 4K/6K RAW capture.
+- Post-Production & Color Grading: DaVinci Resolve Studio (ACES color science), Adobe Premiere Pro, After Effects.
+- Audio Engineering: 24-bit 48kHz wireless lavalier systems (Sennheiser AVX) and directional shotgun capture.
+- Generative AI Media: ComfyUI pipelines, custom FLUX LoRA training, cinematic prompt architecture, multi-modal character retention.
+- Smart Contact Hardware: Ntag215 / Ntag216 NFC chipsets, ISO 14443A compliance, zero-latency responsive web vCards.
+
+## Official Endpoints
+- Homepage: https://www.ameer-sief.com/
+- RSS Feed: https://www.ameer-sief.com/feed.xml
+- AI Summary: https://www.ameer-sief.com/ai/summary.json
+- AI FAQ: https://www.ameer-sief.com/ai/faq.json
+- AI Service: https://www.ameer-sief.com/ai/service.json
+- LLMS Full: https://www.ameer-sief.com/llms-full.txt
